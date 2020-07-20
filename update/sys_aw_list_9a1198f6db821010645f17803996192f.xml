@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="tests">da1198f6db821010645f17803996192b</category>
+        <columns>name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 07:33:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a1198f6db821010645f17803996192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test" source="x_490621_test">0b801836db821010645f17803996197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">0b801836db821010645f17803996197e</sys_scope>
+        <sys_update_name>sys_aw_list_9a1198f6db821010645f17803996192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 07:33:11</sys_updated_on>
+        <table>x_490621_test_test</table>
+        <title>All</title>
+        <workspace display_value="Test">3d115cf2db021010645f1780399619d8</workspace>
+    </sys_aw_list>
+</record_update>
