@@ -8,6 +8,8 @@
         <component display_value="sn-workspace-toolbar-button">f31b580e0f203300bb57f4a1ff767e9d</component>
         <is_root>true</is_root>
         <layout/>
+        <macroponent/>
+        <macroponent_config/>
         <name>Lists Button</name>
         <order>100</order>
         <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>

@@ -5,6 +5,7 @@
         <columns>name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
         <condition/>
         <groups/>
+        <list_attributes/>
         <order>100</order>
         <roles/>
         <sys_class_name>sys_aw_list</sys_class_name>

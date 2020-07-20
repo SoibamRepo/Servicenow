@@ -8,6 +8,8 @@
         <component display_value="sn-inbox">c1fbc4bb77b31300c438c277d8106134</component>
         <is_root>true</is_root>
         <layout/>
+        <macroponent/>
+        <macroponent_config/>
         <name>Inbox Module Content</name>
         <order>200</order>
         <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>

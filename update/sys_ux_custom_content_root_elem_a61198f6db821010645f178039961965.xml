@@ -8,6 +8,8 @@
         <component display_value="sn-workspace-home">5012e92bff222300294153bd6338f159</component>
         <is_root>true</is_root>
         <layout/>
+        <macroponent/>
+        <macroponent_config/>
         <name>Home Module Content</name>
         <order>0</order>
         <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>

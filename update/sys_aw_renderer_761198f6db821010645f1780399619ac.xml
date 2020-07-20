@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
     <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <active>false</active>
         <custom_renderer display_value="sn-component-catalog-item">4e118ce10f132300bb57f4a1ff767ee0</custom_renderer>
         <custom_renderer_tag>sn-component-catalog-item</custom_renderer_tag>
+        <macroponent/>
         <module_flag>false</module_flag>
         <renderer_type>record</renderer_type>
         <sys_class_name>sys_aw_renderer</sys_class_name>
@@ -17,6 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-20 07:33:12</sys_updated_on>
         <table>sc_cat_item_producer</table>
+        <type_ext/>
         <workspace_config display_value="Test">3d115cf2db021010645f1780399619d8</workspace_config>
         <workspace_module/>
     </sys_aw_renderer>
